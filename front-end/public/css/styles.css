@@ -1,0 +1,245 @@
+body {
+  background: url("../images/background7.jpg") no-repeat center center fixed;
+  background-size: cover; }
+
+.search-container {
+  margin-top: 8%;
+  width: 60%;
+  height: 100%;
+  color: white;
+  border-radius: 20px; }
+
+.search-box {
+  margin-top: 8%;
+  background: rgba(0, 0, 0, 0.6) !important;
+  color: white;
+  border-radius: 10px; }
+
+.search-bar {
+  display: inline-block; }
+
+.selectionadd {
+  transition: 1s;
+  background-color: green;
+  border-radius: 10px; }
+
+.doctor-results-box {
+  width: 100%;
+  height: 100%;
+  color: white;
+  padding: 1%; }
+
+.profile-box {
+  background: rgba(0, 0, 0, 0.6);
+  color: white; }
+
+.photo {
+  height: 100%;
+  width: 100%; }
+
+.doctor-results-box {
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  border: 1px 1px solid;
+  width: 100%; }
+
+.search-doctor-results {
+  background-color: black;
+  border: 1px 1px solid;
+  background: rgba(0, 0, 0, 0.6); }
+
+.map {
+  display: inline;
+  position: fixed;
+  right: 0;
+  top: 0; }
+
+#location-search {
+  width: 100%; }
+
+.results-wrapper {
+  position: relative; }
+
+.message {
+  font-family: 'Swanky and Moo Moo', cursive;
+  color: black; }
+
+#drPhoto {
+  width: 100%; }
+
+.home-box {
+  width: 100%;
+  height: 60vh;
+  margin-top: 8%; }
+
+.react-autosuggest__input {
+  text-align: center; }
+
+.inputs {
+  width: 80%; }
+
+.rowspan {
+  top: 0;
+  bottom: 0; }
+
+.title-head {
+  font-family: 'Swanky and Moo Moo', cursive;
+  color: black;
+  font-size: 84px; }
+
+.nav-wrapper {
+  background: url("../images/background2.jpg"); }
+
+.register-form {
+  color: white;
+  background-color: black;
+  border: 1px 1px solid;
+  background: rgba(0, 0, 0, 0.6); }
+
+label[id*='label-'] {
+  color: white; }
+
+#test {
+  color: white; }
+
+.logo {
+  display: inline-block;
+  height: 100%; }
+
+.logo > img {
+  vertical-align: middle; }
+
+/*.login-form {
+  color: black;
+  background-color: white;
+  border: 0px 3px 0px 0px solid black;
+  padding: 1%; }*/
+
+.login-form{
+  margin-top: 10%;
+    color:white;
+    
+    border: 0px 3px 0px 0px solid black;
+    border-radius: 10px;
+    background:rgba(0,0,0,.6);
+    
+    
+
+}
+
+
+#login {
+  margin-top: 10%;
+  width: 100%; }
+
+.search-box-home {
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 20px; }
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  transition: background-color 5000s ease-in-out 0s !important;
+  -webkit-text-fill-color: white !important; }
+
+.login-form {
+  margin-top: 10% !important;
+  color: white;
+  background-color: black;
+  border: 1px 1px solid;
+  background: rgba(0, 0, 0, 0.6); }
+
+/*# sourceMappingURL=styles.css.map */
+.liremove{
+  list-style-type: none;
+}
+
+.table {
+    font-size:120%;
+}
+
+.login-box {
+    background:rgba(255,255,255,.6);
+    border-radius:20px;
+    margin: auto;
+    margin-top:20%;
+     padding : 1%;
+    height: 40vh;
+    width: 50%;  
+}
+
+
+/*starting fase of animation*/
+.slide{
+    animation: slide;
+    animation-duration: 1s;
+    visibility: visible;
+  }
+
+  @keyframes slide {
+    0%{
+      transform: translateX(-100%)
+    }
+    100%{
+      transform: translateX(0%)
+    }
+  }
+
+.slide2{
+    animation: slideone;
+    animation-duration: 1s;
+    visibility: visible;
+  }
+
+  @keyframes slideone {
+    0%{
+      transform: translateX(100%)
+    }
+    100%{
+      transform: translateX(0%)
+    }
+  }
+
+  .hidden{
+  display: none;
+  transition: 0.5s;
+}
+
+.fadein{
+  color: black;
+  display: block;
+}
+
+.register-wrapper {
+  margin-top: 0%;
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: -5%;
+  padding-bottom: 1%;
+  height: 100%;
+  width: 50%; }
+
+  .register-wrapper h3 {
+    font-family: 'Swanky and Moo Moo', cursive;
+    color: black; }
+
+.search-wrapper {
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  /*margin-top: 10%;*/
+  padding: 2%;
+  padding-bottom: 1%;
+  height: 100%;
+  width: 60%; }
+
+
+@media (min-width: 480px){
+  .register {
+      padding: 0;
+  }
+}

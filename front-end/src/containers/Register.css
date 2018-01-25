@@ -1,0 +1,21 @@
+@media all and (min-width: 480px) {
+  .register {
+    padding: 60px 0;
+  }
+
+  .register form {
+    margin: 0 auto;
+    max-width: 520px;
+  }
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+
+.icons{
+	color: orange;
+}
