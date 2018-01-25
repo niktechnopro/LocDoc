@@ -6,7 +6,7 @@ This was built using Node.Js/Express, ReactJS/Redux and MySql database.
 ## The Team:
 * **[Nikolas Bogucharsky](https://github.com/niktechnopro)**: 
 	* **Primary team role**: React, NodeJs/Express 
-  	* **Contributions**:  Animations, GoogleMap 
+  	* **Contributions**:  Doctor search logic, GoogleMap, Animation 
   	
 
 * **[Taylor Whitlatch](https://github.com/TaylorWhitlatch)**: 
