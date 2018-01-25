@@ -1,7 +1,7 @@
 # LocDoc
 ## Overview of Project:
 LocDoc is a powerful tool that enable a user to find doctors based on location, insurance, and specialty preferenes.  
-This was built using Node.Js/Express, ReactJS/Redux and MySql database.
+This was built using Node.Js/Express, ReactJS/Redux and MySQL database.
 
 ## The Team:
 * **[Nikolas Bogucharsky](https://github.com/niktechnopro)**: 
