@@ -6,7 +6,7 @@ This was built using Node.Js/Express, ReactJS/Redux, MySQL database, BetterDocto
 ## The Team:
 * **[Nikolas Bogucharsky](https://github.com/niktechnopro)**: 
 	* **Primary team role**: React, NodeJs/Express 
-  	* **Contributions**:  Doctor search logic, GoogleMaps, Animation 
+  	* **Contributions**:  Doctor search logic, Google Maps API, Animation 
   	
 
 * **[Taylor Whitlatch](https://github.com/TaylorWhitlatch)**: 
@@ -36,3 +36,5 @@ This was built using Node.Js/Express, ReactJS/Redux, MySQL database, BetterDocto
 * **Libraries**:
     * jQuery
     * Redux
+* **Screenshots**:
+   ![screenshot](/images/screenshot.png "project screenshot")
