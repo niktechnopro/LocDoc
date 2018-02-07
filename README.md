@@ -37,4 +37,4 @@ This was built using Node.Js/Express, ReactJS/Redux, MySQL database, BetterDocto
     * jQuery
     * Redux
 * **Screenshots**:
-   ![screenshot](/LocDocScreenshot/screenshot1.png "project screenshot")
+   ![screenshot](/LocDocScreenshots/screenshot1.png "project screenshot")
