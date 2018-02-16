@@ -1,6 +1,6 @@
 # LocDoc
 ## Overview of Project:
-LocDoc is a powerful tool that enables a user to find doctor based on location, insurance, and specialty preferenes.  
+LocDoc is a powerful tool that enables a user to find a doctor based on location, insurance, and specialty preferenes.  
 This was built using Node.Js/Express, ReactJS/Redux, MySQL database, BetterDoctor API, Google Maps Geocoding API
 
 ## The Team:
